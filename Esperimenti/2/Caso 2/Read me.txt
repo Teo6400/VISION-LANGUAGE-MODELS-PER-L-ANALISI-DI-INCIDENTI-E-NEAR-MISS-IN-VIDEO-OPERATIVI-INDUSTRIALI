@@ -1,0 +1,1 @@
+Qui sembra di trovarsi sempre in una situazione "in allerta", e non si evidenzia quando ci dovrebbe essere l'incidente (dai grafici). Indagando R4 risulta essere sempre, in tutti gli instanti temporali, alta (1/0,75), ipotizzo che lavorando sulla funzione sigmoidee, alzando la soglia, o sostituendola con una funzione crescente a tassi crescenti possa funzionare meglio.
